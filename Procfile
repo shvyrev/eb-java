@@ -1,0 +1,1 @@
+web: java -Dserver.port=5000 -Xmx32g -XX:+UseConcMarkSweepGC -jar build/libs/eb-java-0.0.1-SNAPSHOT.war
