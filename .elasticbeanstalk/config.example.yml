@@ -1,0 +1,17 @@
+branch-defaults:
+  develop:
+    environment:
+  master:
+    environment:
+global:
+  application_name:
+  default_ec2_keyname:
+  default_platform: Java 8 running on 64bit Amazon Linux
+  default_region:
+  include_git_submodules: true
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: null
+  sc: git
+  workspace_type: Application
